@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel --stage 0 app.js --out-file script-compiled.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "babel --stage 0 app.js --out-file script-compiled.js"
   },
   "repository": {
     "type": "git",
