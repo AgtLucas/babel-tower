@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 class App {
 
@@ -11,7 +11,7 @@ class App {
   }
 
   render = () => {
-    return this;
+    return this
   }
 
 }
